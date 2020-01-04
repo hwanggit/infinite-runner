@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hwanggit/infinite-runner/issues"
   },
-  "homepage": "https://github.com/hwanggit/infinite-runner#readme"
+  "homepage": "https://github.com/hwanggit/infinite-runner#readme",
+  "dependencies": {
+    "phaser": "^3.21.0"
+  }
 }
