@@ -1,0 +1,23 @@
+{
+  "name": "infinite-runner",
+  "version": "1.0.0",
+  "description": "phaser based web game",
+  "main": "index.js",
+  "dependencies": {
+    "phaser": "^3.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwanggit/infinite-runner.git"
+  },
+  "author": "lulu wang, howard wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwanggit/infinite-runner/issues"
+  },
+  "homepage": "https://github.com/hwanggit/infinite-runner#readme"
+}
